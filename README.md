@@ -1,6 +1,6 @@
 # React Express Boilerplate
 
-A basic boilerplate to kick-start development with __Re__act, __Web__pack and E__x__press
+A basic boilerplate to kick-start development with **Re**act, **Web**pack and E**x**press
 
 ## Getting Started
 
