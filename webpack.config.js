@@ -26,6 +26,10 @@ module.exports = {
         }
     ]
     },
+    watch: true,
+    watchOptions: {
+        poll: true
+    },
     plugins: [
     new HtmlWebPackPlugin({
         template: "./src/index.template.html",
